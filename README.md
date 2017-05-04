@@ -1,1 +1,2 @@
-# beginners-git-github-tutorial
+name Tutorial
+by Jedra
